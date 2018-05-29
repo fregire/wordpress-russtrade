@@ -1,0 +1,27 @@
+<svg width="65" height="65" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 60 60">
+	<style>
+		@-webkit-keyframes example {
+		    from {stroke-dashoffset: 200;}
+		    to {stroke-dashoffset: 0;}
+		}
+		@keyframes example {
+		    from {stroke-dashoffset: 200;}
+		    to {stroke-dashoffset: 0;}
+		}
+		.circle {
+			-webkit-animation-name: example;
+			        animation-name: example;
+    		-webkit-animation-duration: 1s;
+    		        animation-duration: 1s;
+		}
+	</style>
+	<circle class="circle" r="30" cx="30" cy="30" fill="transparent" stroke-width="3" stroke="#f5f5" stroke-dasharray="200" stroke-dashoffset="200">
+		
+	</circle>
+
+</svg>
+
+
+<!-- <svg class="svg-circle" height="24" width="24" xmlns="http://www.w3.org/2000/svg" style="stroke-dasharray: 70.3064px; stroke-dashoffset: 36.9812px;">
+	<path d="m0.812578,12c0,-6.180896 5.006526,-11.187422 11.187422,-11.187422c6.180897,0 11.187422,5.006526 11.187422,11.187422c0,6.180897 -5.006525,11.187422 -11.187422,11.187422c-6.180896,0 -11.187422,-5.006525 -11.187422,-11.187422z" xmlns="http://www.w3.org/2000/svg"></path>
+</svg> -->

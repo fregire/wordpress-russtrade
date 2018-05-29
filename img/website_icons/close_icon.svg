@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="37" height="105" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 35 100" style="enable-background:new 0 0 51 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#686868;stroke-width:1.6074;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#038099;stroke-width:1.607;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#BBBBBB;}
+</style>
+<g>
+	<line class="st1" x1="19" y1="18" x2="33" y2="32"/>
+	<line class="st1" x1="33" y1="18" x2="19" y2="32"/>
+</g>
+<g>
+	<line class="st2" x1="19" y1="68" x2="33" y2="82"/>
+	<line class="st2" x1="33" y1="68" x2="19" y2="82"/>
+</g>
+</svg>
